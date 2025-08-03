@@ -12,7 +12,7 @@ A clean and modern **HTML + CSS navbar** that features:
 
 ## 🚀 Live Preview
 
-[🎥 Watch the Reel on Instagram](https://www.instagram.com/your-reel-link)  
+[🎥 Watch the Reel on Instagram]([https://www.instagram.com/your-reel-link](https://www.instagram.com/p/DM5djO4Icj1/?igsh=MTh6OGFwMm0ybDJzbg==))  
 (*Replace with your actual reel URL*)
 
 ---
